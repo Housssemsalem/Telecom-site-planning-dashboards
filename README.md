@@ -25,7 +25,7 @@ The work covered:
 | Area | Technologies |
 |---|---|
 | Data engineering | Python, SQL, PostgreSQL, ETL |
-| Data integration | Talend, SSIS, SFTP |
+| Data integration | Python |
 | Data quality | Validation rules, KPI controls, monitoring |
 | BI & visualization | Tableau, Power BI |
 | Development | Python, Git, VS Code |
