@@ -62,7 +62,7 @@ Telecom-site-planning-dashboards/
 
 Monitoring view dedicated to telecom sites and planning information, including operational indicators and data-quality-oriented checks.
 
-**Public dashboard:** `ADD_PUBLIC_LINK_HERE`
+**Public dashboard:** https://public.tableau.com/views/DashboardPlancellTlcom/Tableaudebord?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ![Dashboard 01](dashboards/dashboard-01/dashboard.png)
 
@@ -72,17 +72,15 @@ Monitoring view dedicated to telecom sites and planning information, including o
 
 Executive monitoring of 4G and 5G network information with date-based KPI analysis and historical evolution.
 
-**Public dashboard:** `ADD_PUBLIC_LINK_HERE`
+**Public dashboard:** (https://public.tableau.com/views/DashboardDonnesTlcom/Tableaudebord?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Dashboard 02](dashboards/dashboard-02/dashboard.png)
+![Dashboard 02](dashboards/dashboard-02/)
 
 ---
 
 ### 03 — STI OA SFR
 
-Geographic and operational analysis of SFR sites associated with shared network zones and operational areas.
-
-**Public dashboard:** `ADD_PUBLIC_LINK_HERE`
+Geographic and operational analysis of SFR sites associated with shared network zones and operational areas
 
 ![Dashboard 03](dashboards/dashboard-03/dashboard.png)
 
@@ -92,7 +90,6 @@ Geographic and operational analysis of SFR sites associated with shared network 
 
 Complementary view focused on Bouygues Telecom-related operational areas and shared network analysis.
 
-**Public dashboard:** `ADD_PUBLIC_LINK_HERE`
 
 ![Dashboard 04](dashboards/dashboard-04/dashboard.png)
 
@@ -102,7 +99,6 @@ Complementary view focused on Bouygues Telecom-related operational areas and sha
 
 Monitoring of operational network indicators, site status and historical KPI evolution.
 
-**Public dashboard:** `ADD_PUBLIC_LINK_HERE`
 
 ![Dashboard 05](dashboards/dashboard-05/dashboard.png)
 
@@ -112,7 +108,7 @@ Monitoring of operational network indicators, site status and historical KPI evo
 
 A dedicated view for identifying missing, inconsistent or unexpected values and supporting data reliability.
 
-**Public dashboard:** `ADD_PUBLIC_LINK_HERE`
+
 
 ![Dashboard 06](dashboards/dashboard-06/dashboard.png)
 
@@ -122,7 +118,7 @@ A dedicated view for identifying missing, inconsistent or unexpected values and 
 
 Consolidated KPI view designed to provide a high-level understanding of network and planning activity.
 
-**Public dashboard:** `ADD_PUBLIC_LINK_HERE`
+**Public dashboard:** https://public.tableau.com/views/DashboardKPIFluxtlcom/Home?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ![Dashboard 07](dashboards/dashboard-07/dashboard.png)
 
